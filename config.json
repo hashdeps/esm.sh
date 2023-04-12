@@ -1,0 +1,9 @@
+{
+  "port": 80,
+  "origin": "https://esm.blockprotocol.org",
+  "workDir": "/esm",
+  "database": "bolt:/esm/.esmd/esm.db",
+  "storage": "local:/esm/.esmd/storage",
+  "logLevel": "debug",
+  "logDir": "/esm/.esmd/log"
+}
